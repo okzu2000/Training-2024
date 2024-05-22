@@ -1,1 +1,1 @@
-"# Training-2024" 
+# Training-2024
